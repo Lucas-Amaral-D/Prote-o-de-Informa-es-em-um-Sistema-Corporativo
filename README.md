@@ -162,3 +162,10 @@ Resultados esperados na execucao:
 - criptografia assimetrica para troca segura de chaves
 - cifragem em repouso para proteger arquivos armazenados
 
+## Diagramas do Sistema
+
+![diagrama 1](diagramas/diagrama1.png)
+
+![diagrama 2](diagramas/diagrama2.png)
+
+![diagrama 3](diagramas/diagrama3.png)
